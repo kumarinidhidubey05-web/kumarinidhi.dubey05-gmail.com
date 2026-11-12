@@ -1,33 +1,20 @@
 # Hi, I'm Nidhi Kumari 👋
 
-🎓 CSE Student  
-💻 Learning Programming and Software Development
+🎓 CSE Student | Aspiring Developer
 
 ### About Me
-- 🌱 Currently learning Java, Python, and SQL.
-- 💡 Interested in Web Development and Cloud Computing.
-- 🚀 Building beginner-friendly projects to improve my coding skills.
-- 📚 Always excited to learn new technologies.
+- 🌱 Learning Java, Python and SQL.
+- 💻 Interested in Web Development and Cloud Computing.
+- 🚀 Building small projects and improving my skills.
 
-### 🛠️ Languages and Technologies
-- Python
-- Java
-- SQL
-- HTML
-- CSS
-- JavaScript
+### Skills
+Java | Python | SQL | HTML | CSS | JavaScript
 
-### 📂 My Projects
-- 🐍 Snake Game using Python
-- 🌐 Personal Website using HTML, CSS and JavaScript
+### Projects
+- 🐍 Snake Game (Python)
+- 🌐 Personal Website
 
-### 🎯 My Goals
-- Improve my problem-solving skills.
-- Build more real-world projects.
-- Learn new technologies.
-- Grow as a Software Developer.
-
-### 📫 Connect With Me
-- GitHub: [My GitHub Profile](https://github.com/)
+### Goals
+Learning, building projects and growing as a developer.
 
 ⭐ Thanks for visiting my profile!
